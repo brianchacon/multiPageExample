@@ -110,3 +110,9 @@ a{
     font-weight: 400;
     font-style: normal;
 }
+.aside-title, label,.store-qty{
+    color:#f4f4f4;
+}
+.input-select{
+    color:#1E1E1E;
+}

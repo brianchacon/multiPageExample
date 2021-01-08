@@ -57,6 +57,7 @@ function setValues(){
 		// 	i = 0;
 
 		//console.log(" j: "+j+" "+imgSlider1[i*2]+" "+imgSlider1[i*2+1]);
+		console.log(i*2+" "+j);
 		elemId(imgSlider1Ids[j]).src   = imgSlider1[i*2];
 		// elemId(imgSlider1Ids[j]).style.display = 'none';
 		elemId(imgSlider1Ids[j+1]).src = imgSlider1[i*2+1];
